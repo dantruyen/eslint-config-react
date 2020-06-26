@@ -28,6 +28,7 @@ module.exports = {
         "object-curly-spacing": ["warn", "always"],
         "@typescript-eslint/brace-style": ["error", "1tbs", { "allowSingleLine": true }],
         "@typescript-eslint/explicit-function-return-type": "off",
+        "@typescript-eslint/explicit-module-boundary-types": "off",
         "@typescript-eslint/func-call-spacing": ["error"],
         "@typescript-eslint/member-ordering": ["warn"],
         "@typescript-eslint/no-require-imports": ["error"],
